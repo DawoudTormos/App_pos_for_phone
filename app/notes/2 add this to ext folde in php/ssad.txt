@@ -1,0 +1,6 @@
+php_sqlsrv.dll
+
+add a ts one if thrad safety is enabled in phpInfo
+add the number according to php version
+add the x64 with 64 bit 
+change its name to the name at first
